@@ -154,7 +154,7 @@ After this, you should be able to click "Build" in this "Build Settings" window 
 Download SideQuest from the following URL: https://sidequestvr.com/setup-howto
 
 Plug your Quest 2 into your computer with a USB-C cable, and open SideQuest (on Linux/Ubuntu, the SideQuest download provides a simple executable to run, so
-there are no extra installation instructions here). You will probably be greated by a warning/error about ADB udev rules:
+there are no extra installation instructions here). You will probably be greeted by a warning/error about ADB udev rules:
 
 ![ADB udev rules warning/error.](./README_assets/sidequest_adb_udev_rules_missing.png)
 
