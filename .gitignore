@@ -60,3 +60,6 @@ crashlytics-build.properties
 
 # Script Inspector 3 is proprietary, but I like to use it
 [Aa]ssets/Plugins/Editor/ScriptInspector3*
+
+# The backup directory for debugging - only keep this around for releases
+*BackUpThisFolder_ButDontShipItWithYourGame
